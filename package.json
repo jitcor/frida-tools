@@ -1,0 +1,20 @@
+{
+  "name": "frida-tools",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+
+  },
+  "files": [
+    "index.ts"
+  ],
+  "keywords": [],
+  "author": "shlu",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "frida-compile": "^10.0.0",
+    "@types/frida-gum": "^16.2.0"
+  }
+}
